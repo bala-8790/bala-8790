@@ -25,6 +25,25 @@ I integrate Google's Gemini LLM into my development workflows and applications:
   <img src="https://github-readme-stats.vercel.app/api?username=bala-8790&show_icons=true&theme=dark" alt="Bala's GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bala-8790&layout=compact&theme=dark" alt="Top Languages" />
 </p>
+
+## 🛠️ Featured Projects
+
+### 🚀 [Image Segmentation & Captioning Web App](https://github.com/bala-8790/app)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white) ![Gemini](https://img.shields.io/badge/Gemini%20AI-8E75FF?style=for-the-badge&logo=google-gemini&logoColor=white)
+
+> A powerful web-based computer vision application built with Streamlit. It handles real-world image segmentation pipelines and leverages advanced models to generate accurate, contextual image captions.
+
+* **Key Features:** Real-time processing, interactive UI, robust segmentation layout.
+* [🔧 View Repository](https://github.com/bala-8790/app) | [🌐 Live Demo](your-link-here)
+
+---
+
+### 🏥 [Health Monitoring System](https://github.com/bala-8790/healthsystem)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Data Science](https://img.shields.io/badge/Data--Science-Black?style=for-the-badge&logo=analytics)
+
+> An intelligent core backend application designed to track, analyze, and manage vital health metrics efficiently using structured Python data pipelines.
+
+* [🔧 View Repository](https://github.com/bala-8790/healthsystem)
 <!--
 **bala-8790/bala-8790** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
