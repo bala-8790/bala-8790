@@ -20,6 +20,11 @@ I integrate Google's Gemini LLM into my development workflows and applications:
 * **[Project Name](link-to-your-repo):** A Python application powered by the Gemini API to automate content generation.
 * **Smart Workflows:** Leveraging AI to optimize image captioning pipelines in my web applications.## Hi there 👋
 
+### 📊 My GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bala-8790&show_icons=true&theme=dark" alt="Bala's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bala-8790&layout=compact&theme=dark" alt="Top Languages" />
+</p>
 <!--
 **bala-8790/bala-8790** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
