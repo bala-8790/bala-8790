@@ -1,4 +1,24 @@
-## Hi there 👋
+# Hi there, I'm Jona BalaMahendra Varma! 👋
+
+### 🚀 About Me
+I am a passionate developer focused on Python, Web Development, and AI integration. Currently building projects that leverage large language models to solve real-world problems.
+
+* 🛠️ Currently working on: Upgrading my Streamlit image segmentation app.
+* 🧠 Learning: Advanced prompt engineering and AI agent workflows.
+* 💬 Ask me about: Python, Streamlit, and building responsive web apps.
+
+---
+
+### 💻 Tech Stack
+**Languages:** Python, HTML5, CSS3, JavaScript  
+**Frameworks & Tools:** Streamlit, Git, GitHub Codespaces
+
+---
+
+### 🤖 AI & Gemini Integrations
+I integrate Google's Gemini LLM into my development workflows and applications:
+* **[Project Name](link-to-your-repo):** A Python application powered by the Gemini API to automate content generation.
+* **Smart Workflows:** Leveraging AI to optimize image captioning pipelines in my web applications.## Hi there 👋
 
 <!--
 **bala-8790/bala-8790** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
