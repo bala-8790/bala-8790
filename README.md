@@ -1,4 +1,3 @@
-<!--
 # Hi there, I'm Jona BalaMahendra Varma! 👋
 
 ### 🚀 About Me
